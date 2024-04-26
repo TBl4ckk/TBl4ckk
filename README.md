@@ -56,9 +56,6 @@ Tengo 19 Años de edad me gusta la programacion los deportes los vehiculos, soy 
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
 <a href="https://github.com/TBl4ckk/">
