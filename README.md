@@ -91,6 +91,13 @@
 <br>
 
 <li>
+  <a href="https://api.whatsapp.com/send?phone=18494968750&text=Hola,%20quiero%20enviar%20un%20mensaje%20a%20trav%C3%A9s%20de%20este%20enlace" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp:%20enviar%20mensaje-%2300BFA6.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
+</li>
+
+<br>
+<li>
   <a href="mailto:moises8medina@gmail.com?subject=Asunto del correo" target="_blank">
     <img src="https://img.shields.io/badge/gmail: TBl4ck-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
