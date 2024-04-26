@@ -72,14 +72,6 @@ Tengo 19 Años de edad me gusta la programacion los deportes los vehiculos, soy 
 <ul>
 
 <li>
-  <a href="https://twitter.com/T_BL4CK_" target="_blank">
-    <img src="https://img.shields.io/badge/twitter:%20TBL4CK-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-</li>
-
-<br>
-
-<li>
   <a href="https://api.whatsapp.com/send?phone=18494968750&text=Hola,%20quiero%20enviar%20un%20mensaje%20a%20trav%C3%A9s%20de%20este%20enlace" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp:%20enviar%20mensaje-%2300BFA6.svg?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
   </a>
@@ -105,18 +97,8 @@ Tengo 19 Años de edad me gusta la programacion los deportes los vehiculos, soy 
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Aprendiendo a programar</b>
 
 </div>
 <br>
-<br>
-<br>
-<br>
 
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
