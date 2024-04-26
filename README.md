@@ -55,12 +55,6 @@ Tengo 19 Años de edad me gusta la programacion los deportes los vehiculos, soy 
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -78,9 +72,9 @@ Tengo 19 Años de edad me gusta la programacion los deportes los vehiculos, soy 
 <ul>
 
 <li>
-<a href="twitter.com/T_BL4CK_" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  TBL4CK-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://twitter.com/T_BL4CK_" target="_blank">
+    <img src="https://img.shields.io/badge/twitter:%20TBL4CK-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
 </li>
 
 <br>
